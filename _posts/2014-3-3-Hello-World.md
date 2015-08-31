@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+    Hey everyone! "Syllabus week" is officially over and I'm feeling pretty good about this class so far.  I have never had Downing before, but I only hear how amazing his classes are, so I'm looking forward to Software Engineering even though it looks like it will be quite the workload.  Downing doesn't allow all of our gadgetry in class which is a first from me, but from the first 2 classes it looks like we don't have time for them, unless you want to get blindsided by Downing calling on you, which would be embarrassing to say the least.
+    
